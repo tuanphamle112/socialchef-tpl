@@ -1,0 +1,14 @@
+{
+  "name": "SocialChef",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/tuanphamle112/socialchef-tpl.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
